@@ -23,7 +23,7 @@ variable "key_name" {
 
 variable "my_ip" {
   description = "For making ssh connection"
-  default = "115.249.19.71"
+  default = ""
 }
 
 variable "vpc_cidr" {
