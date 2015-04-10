@@ -24,3 +24,9 @@ access_key  = "foo"
 secret_key  = "bar"
 key_name    = "deploy-tomar"
 ```
+
+## Running
+```
+$ terraform plan
+$ terraform apply
+```
