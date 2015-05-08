@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-# This script will tell what AZ's are available in our account.
+# This script will tell what AZ's are available in our aws account.
 #
 # Prerequsite : aws cli 
 
